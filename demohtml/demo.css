@@ -1,0 +1,131 @@
+.heading{
+    position: relative;
+    width: 100%;
+    padding: 10px;
+    opacity: 1;
+}
+.block{
+    font-size: 35px;
+    position: absolute;
+    top: 50px;
+    right: 35%;
+}
+.tbar{
+    
+    font-size: 40px;
+    position: absolute;
+    right: 40px;
+    bottom: 30px;
+    padding: auto;
+    word-spacing: 10px;
+
+}
+a:link{
+    padding: 10px;  
+    color: white;
+    background-color: white;
+    text-decoration: none;
+    border-radius: 20px;
+}
+a:hover{
+   color: azure;
+   background-color: transparent;
+  text-decoration: underline;
+  
+}
+.container{
+    background-color: rgb(251, 241, 202);
+}
+.tb:link{
+    color: aliceblue;
+
+}
+.block2{
+    background-color: aquamarine;
+    width: 100%;
+    height: 260px;
+}
+.table{
+    background-color: rgb(43, 62, 230);
+    border: 10px;
+    border-color: blue;
+    position: absolute;
+    right: 30%;
+    word-spacing: 7px;
+    padding: 10px;
+}
+
+.block3{
+    background-color: rgb(251, 241, 202);
+    
+    position: absolute;
+    top: 53.5% ;
+    left: 21.95%;
+    word-spacing: 7px;
+    height: 220px;
+    width: 310px;
+
+}
+.news{
+    position: absolute;
+    margin-left: 5px;
+    top: -20px;
+    font-size: 30px;
+}
+.block4{
+    background-color: aqua;
+    position: absolute;
+    width: 27.6%;
+    height: 30%;
+    top: 53.5%;
+    left: 42.5%;
+    box-shadow: 0.2px 0.2px 2px 2px white;
+}
+
+block5{
+    position: absolute;
+    width: 300px;
+}
+
+.leftbbtn{
+    color: aliceblue;
+    background-color: black;
+    position: absolute;
+    bottom: 50%;
+}
+.rightbbtn{
+    color: aliceblue;
+    background-color: black;
+    position: absolute;
+    bottom: 50%;
+    left: 94.5%;
+}
+.endofsite{
+    background-color: rgb(5, 41, 73);
+    height: 200px;
+    width: 100%;
+}
+
+.end1{
+    position: absolute;
+    margin-left: 300px;
+}
+
+.end2{
+    position: absolute;
+    margin-left: 500px;
+}
+
+.end3{
+    position: absolute;
+    margin-left: 700px;
+}
+.end4{
+    position: absolute;
+    bottom: 90px;
+    margin-left: 140px;
+}
+
+.lis{
+    font-size: 20px
+}

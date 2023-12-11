@@ -1,0 +1,13 @@
+<web-app>  
+  
+<servlet>  
+<servlet-name>vignesh</servlet-name>  
+<servlet-class>Formservletsql</servlet-class>  
+</servlet>  
+  
+<servlet-mapping>  
+<servlet-name>vignesh</servlet-name>  
+<url-pattern>/Formservletsql</url-pattern>  
+</servlet-mapping>  
+  
+</web-app>  
